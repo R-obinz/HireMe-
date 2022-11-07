@@ -17,11 +17,12 @@ Recruiter has various functionalities such as Posting a Job, Messaging, Networki
 |     :---:    |     :---:      |     :---:     |
 | Frontend     | React with Redux     | 
 | Backend      | Node js       |      
-| Messaging/Queue     | Kafka       |      
-| Database     | MySQL       |       |
-|      | GraphDB       | Graphstory      |
-|      | MongoDB       | 3 AWS Replicas      |
-|      | S3 Bucket       | AWS S3 Bucket      |
+| Messaging/Queue     |          
+| Database     | 
+MySQL       |       |
+| GraphDB       |      |
+| MongoDB       |      |
+| S3 Bucket      |       |
 
 ## Database Design 
 ![image](https://user-images.githubusercontent.com/42597460/56462187-d0624200-6373-11e9-9255-1492ff01d9e1.png)
