@@ -9,9 +9,6 @@ Applicant has various functionalities such as Search and Apply for a Job, Messag
 Recruiter has various functionalities such as Posting a Job, Messaging, Networking with people i.e. ability to connect with other people (implemented using GraphDB) and view and edit profile.
 
 
-## System Architecture
-
-![image](https://user-images.githubusercontent.com/42597460/56462199-09021b80-6374-11e9-854e-d48a06b292bd.png)
 
 
 ## Technologies Used
