@@ -15,10 +15,10 @@ Recruiter has various functionalities such as Posting a Job, Messaging, Networki
 
 |   Stack      | Technology Used| Hosting       |
 |     :---:    |     :---:      |     :---:     |
-| Frontend     | React with Redux     | 2 AWS EC2 Instances    |
-| Backend      | Node js       | 3 AWS EC2 Instances      |
-| Messaging/Queue     | Kafka       | 4 AWS EC2 Instances      |
-| Database     | MySQL       | AWS RDS      |
+| Frontend     | React with Redux     | 
+| Backend      | Node js       |      
+| Messaging/Queue     | Kafka       |      
+| Database     | MySQL       |       |
 |      | GraphDB       | Graphstory      |
 |      | MongoDB       | 3 AWS Replicas      |
 |      | S3 Bucket       | AWS S3 Bucket      |
